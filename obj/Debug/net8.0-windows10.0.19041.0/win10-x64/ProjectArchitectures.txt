@@ -1,0 +1,1 @@
+C:\Juancarlos\Trabajo\Mill5\Code\maui-samples-main\8.0\Apps\Calculator\src\Calculator\Calculator.csproj;x64
